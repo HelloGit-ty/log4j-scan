@@ -104,7 +104,3 @@ docker run -it --rm -v $PWD:/data log4j-scan -l /data/urls.txt
 
 # License
 The project is licensed under MIT License.
-
-* Website: [https://mazinahmed.net](https://mazinahmed.net)
-* Twitter: [https://twitter.com/mazen160](https://twitter.com/mazen160)
-* Linkedin: [http://linkedin.com/in/infosecmazinahmed](http://linkedin.com/in/infosecmazinahmed)
